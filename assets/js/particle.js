@@ -39,18 +39,18 @@ particlesJS("particles-js", {
       },
     },
     size: {
-      value: 8,
+      value: 5,
       random: true,
       anim: {
         enable: false,
-        speed: 10,
-        size_min: 10,
+        speed: 6,
+        size_min: 6,
         sync: false,
       },
     },
     line_linked: {
       enable: true,
-      distance: 150,
+      distance: 200,
       color: "#808080",
       opacity: 0.4,
       width: 1,
