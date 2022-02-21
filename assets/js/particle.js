@@ -40,7 +40,7 @@ particlesJS("particles-js", {
     },
     size: {
       value: 3,
-      random: true,
+      random: false,
       anim: {
         enable: false,
         speed: 3,
@@ -50,7 +50,7 @@ particlesJS("particles-js", {
     },
     line_linked: {
       enable: true,
-      distance: 500,
+      distance: 150,
       color: "#808080",
       opacity: 0.4,
       width: 0.7,
